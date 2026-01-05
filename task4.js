@@ -1,6 +1,11 @@
 // Type your code below this line!
 
-
+function Journey(start, end){
+    this.start = start;
+    this.end =  end;
+}
+let from = "Ciudad de Mexico";
+let to = "Jalisco";
 
 // Type your code above this line!
 
